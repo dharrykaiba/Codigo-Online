@@ -11,8 +11,14 @@
 //   console.log(i)
 // }
 
-var alumnos = ["Glenda","Gabriel","Lorena","Kenneth"];
+//var alumnos = ["Glenda","Gabriel","Lorena","Kenneth"];
 
-for(var i = 0; i < alumnos.length; i++){
-  console.log(alumnos[i])
-}
+//for(var i = 0; i < alumnos.length; i++){
+  //console.log(alumnos[i])
+//}
+
+var FilaTabla = 0;
+var InfoTabla = [0,0,0];
+var GInfoTabla = [InfoTabla,InfoTabla];
+
+console.log(InfoTabla);
